@@ -3,7 +3,7 @@ Cinzento is a out of the box xamarin framework for developers to provide fast, p
 
 ## Goals
  - [ ] Buttons:
-    - [ ] ActonButton;
+    - [ ] ActionButton;
     - [ ] YesButton;
     - [ ] NoButton;
     - [ ] OptionButton;
